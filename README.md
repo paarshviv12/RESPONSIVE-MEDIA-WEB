@@ -1,11 +1,13 @@
 # Responsive Media Web application 📱
 
-A powerful front-end focused project prioritizing responsive design. It demonstrates the use of advanced CSS media queries to build websites that flawlessly adapt to dynamically changing screen dimensions.
+A powerful landing page for a fictional SaaS platform named "YOLO" ("Build It Yourself"). YOLO is positioned as a fast, slick UI building tool trusted by major tech companies like ZOHO, NETFLIX, Amazon, and Figma.
+
+The project itself is a demonstration of advanced CSS media queries to build websites that flawlessly adapt to dynamically changing screen dimensions, alongside deep CSS gradient animations.
 
 ## 🌟 Features
 - **Fluid Layouts:** Automatically restructures components based on screen width.
 - **Breakpoints Management:** Distinct styles tuned precisely for mobile, tablet, and widescreen viewports.
-- **Dynamic Styling:** Elements scale, hide, and reposition effortlessly via CSS `@media` rules.
+- **Dynamic Styling:** A beautifully looping 15-second gradient background that shifts continuously.
 
 ## 🛠️ Built With
 - **HTML5:** Structured semantic foundation.
