@@ -1,5 +1,9 @@
 # Responsive Media Web application 📱
 
+<div align="center">
+  <img src="https://media.tenor.com/peaerBk9LhwAAAAi/excited-happy.gif" height="200" />
+</div>
+
 A powerful landing page for a fictional SaaS platform named "YOLO" ("Build It Yourself"). YOLO is positioned as a fast, slick UI building tool trusted by major tech companies like ZOHO, NETFLIX, Amazon, and Figma.
 
 The project itself is a demonstration of advanced CSS media queries to build websites that flawlessly adapt to dynamically changing screen dimensions, alongside deep CSS gradient animations.
